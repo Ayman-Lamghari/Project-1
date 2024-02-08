@@ -8,3 +8,9 @@ h1{
 marquee {
     color: aqua;
 }
+#text{
+    color: black;
+    background-color: aliceblue;
+    margin: 20%;
+    padding: 20%;
+}
